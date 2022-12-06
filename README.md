@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubhank Gupta (@shubhygups)
 - 👀 I’m interested in Python, AWS, Analytics and Machine learning.
-- 🌱 I’m currently learning AWS, Terraform.
+- 🌱 I’m currently learning AWS, and Airflow.
 - 💞️ I’m looking to collaborate on python, aws,
 - 📫 How to reach me: Linkedin - https://www.linkedin.com/in/shubhygups/
 
