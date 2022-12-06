@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubhank Gupta (@shubhygups)
 - 👀 I’m interested in Python, AWS, Analytics and Machine learning.
 - 🌱 I’m currently learning AWS, and Airflow.
-- 💞️ I’m looking to collaborate on python, aws,
+- 💞️ I’m looking to collaborate on Python, AWS, Docker, Airflow or anything interested related to analytics.
 - 📫 How to reach me: Linkedin - https://www.linkedin.com/in/shubhygups/
 
 <!---
